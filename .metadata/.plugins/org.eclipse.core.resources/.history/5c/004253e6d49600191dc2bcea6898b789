@@ -1,0 +1,8 @@
+package com.myco.div.unit.restwebservices.user;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface UserRepository {
+
+}

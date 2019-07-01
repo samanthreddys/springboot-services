@@ -1,0 +1,10 @@
+package com.myco.div.unit.restwebservices.user;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Post {
+	private Integer id;
+	private String description;
+	private User user;
+}
