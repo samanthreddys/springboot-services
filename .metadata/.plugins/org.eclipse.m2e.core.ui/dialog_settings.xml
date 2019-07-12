@@ -32,6 +32,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/samanthreddys/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/currency-conversion-service"/>
+			<item value="/Users/samanthreddys/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/currency-exchange-service"/>
 			<item value="/Users/samanthreddys/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/spring-cloud-config-server"/>
 			<item value="/Users/samanthreddys/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/limit-service"/>
 		</list>

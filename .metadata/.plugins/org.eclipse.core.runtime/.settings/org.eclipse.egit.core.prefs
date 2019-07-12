@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/Users/samanthreddys/git/repository/.git\:
-GitRepositoriesView.GitDirectories.relative=/Users/samanthreddys/git/repository/.git\:
+GitRepositoriesView.GitDirectories=/Users/samanthreddys/.git\:/Users/samanthreddys/git/repository/.git\:/Users/samanthreddys/Documents/workspace-spring-tool-suite-4-4.2.2.RELEASE/.git\:
+GitRepositoriesView.GitDirectories.relative=/Users/samanthreddys/.git\:/Users/samanthreddys/git/repository/.git\:.git\:
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

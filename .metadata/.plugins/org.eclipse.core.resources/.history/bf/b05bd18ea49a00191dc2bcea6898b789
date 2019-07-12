@@ -1,5 +1,0 @@
-package com.myco.div.unit.microservices.limitservice.bean;
-
-public class LimitConfiguration {
-
-}
